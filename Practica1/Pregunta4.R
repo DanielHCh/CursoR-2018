@@ -29,8 +29,18 @@ is.numeric(quux) + is.integer(quux)
 
 result <- c(is.numeric(f1) + is.integer(f1),is.numeric(bar) + is.integer(bar),is.numeric(baz) + is.integer(baz),is.numeric(qux) + is.integer(qux),is.numeric(quux) + is.integer(quux))
 
+
 #Item C
+#Declaramos la matriz A
 A <- matrix(c(34,23,33,42,41,0,1,1,0,0,1,2,NA,1,2),nrow = 5,ncol = 3)
-colnames(A, do.NULL = FALSE)
+
+#Conversión a un dataframe
+A <- data.frame(A)
+
+#Nombramos columnas pertinentemente para luego dar pase a la coerciones
 colnames(A) <- c("Value","Bool","Factor")
+A$Bool <- as.logical(A$Bool)
+A$Factor <- as.logical.factor(A$Factor)
+
+#Mostramos como quedó finalmente la matriz
 A
