@@ -1,5 +1,7 @@
-#Item a 
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
 
+#Item a 
 vec1<-c(2,1,1,3,2,1,0)
 vec2<-c(3,8,2,2,0,0,0)
 

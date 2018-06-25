@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Item a
 #Separando espacio de trabajo
 setwd("E:/Daniel H.Ch/DataR/") 

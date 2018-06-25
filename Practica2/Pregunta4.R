@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 loopvec1 <- 5:7
 loopvec2 <- 9:6
 mat1 <- matrix(NA, nrow = length(loopvec1), ncol = length(loopvec2))

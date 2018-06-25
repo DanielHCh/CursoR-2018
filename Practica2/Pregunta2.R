@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Exacto pues se muestran en consola
 seq(from=10, to=8, length=5)
 sort(decreasing=T, x=c(2,1,1,2,0.3,3,1.3))

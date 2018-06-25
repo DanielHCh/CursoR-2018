@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 # Item a
 f1<- c(13563,-14156,-14319,16981,12921,11979,9568,8833,-12968, 8133)
 f1^75

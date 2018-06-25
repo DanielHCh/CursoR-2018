@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Item A
 #Un vector unidimensional que fue repartido en las posiciones de 4 matrices de 3x3
 f1 <- array(data=1:36,dim=c(3,3,4))

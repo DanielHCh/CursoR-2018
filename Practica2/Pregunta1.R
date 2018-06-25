@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Item a
 elementos<-ls("package:methods",all.names = TRUE)
 elementos[1:20]

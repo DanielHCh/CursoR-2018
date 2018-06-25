@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Crea una y declara el cuadro donde se ubicarán funciones a representar gráficamente
 plot.new()
 

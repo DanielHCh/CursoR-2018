@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Item a
 #Guardando los datos de los "quakes" 
 qk <- datasets::quakes

@@ -1,3 +1,6 @@
+#Author: Daniel Alfredo Hidalgo Chávez
+#código: 20132097F
+
 #Hombres=12, Mujeres=8 | Individiuos mujeres indetificadas: 1,5,7,12,14,16 | Laboristas: 1,4,12,15,16,19 | Maoríes: 0 | Verdes: 6,9,11 | OTROS: 10,20
 #Creamos vector
 gob <- matrix(c("Sexo","Partido"),nrow=21,ncol = 2, ordered(TRUE))
